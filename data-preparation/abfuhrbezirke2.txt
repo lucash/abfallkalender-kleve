@@ -1,0 +1,711 @@
+Ackersheide;H;5;H2
+Ackerstraße;D;2;D1
+Ahornstraße;G;1;G2
+Albersallee;C;1;C1
+Albrechtstraße;C;4;C1
+Alexanderhof;G;1;G2
+Alexanderstraße;G;1;G2
+Alte Bahn;H;5;H2
+Alte Mühle;F;3;F2
+Alte Reeser Straße;E;3;E2
+Alte Schulgasse;B;4;F1
+Alte Schulstraße;F;3;F1
+Am alden Schmidt;F;3;F2
+Am alten Rhein;F;4;F1
+Am Bruderbaum;H;2;H1
+Am Damm;A;5;A1
+Am Deich;E;3;E1
+Am Ehrenmal;B;4;B1
+Am Forstgarten;H;4;H2
+Am Forsthaus;G;1;G1
+Am Freudenberg;C;1;C1
+Am Hang;H;2;H1
+Am Haus Bimmen;A;5;A1
+Am Hecken;A;5;A1
+Am Leitgraben;F;3;F1
+Am Mühlenberg;D;2;D1
+Am Naturpark;E;3;E2
+Am Orth;A;5;A2
+Am Pölleken;H;3;H2
+Am Postdeich;F;3;F1
+Am Ruppenberg;G;1;G1
+Am Schützenhaus;E;3;E1
+Am Sender;D;2;D2
+Am Sportplatz;E;3;E1
+Am Stein;G;1;G1
+Amselstraße;E;3;E2
+An den Vier Winden;D;2;D1
+An der Brücke;F;3;F1
+An der Hand;G;1;G1
+An der Kirche;E;3;E1
+An der Ley;F;3;F2
+An der Münze;B;4;B2
+An der Spoy;F;4;F1
+An der Willibrordschule;E;3;E1
+Angerhausenstege;B;4;B1
+Annabergstraße;H;2;H1
+AnnavonCleveStr.;C;1;C2
+Antoniusstraße;F;2;F2
+Antonstraße;F;3;F1
+Apostelstraße;A;5;A2
+Arnoldstraße;C;4;C1
+Arntzstraße;B;4;B1
+Arnulfstraße;B;5;B2
+Asternweg;D;2;D2
+Auf dem Kamp;G;1;G1
+Auf dem Sand;E;3;E1
+Augustinusweg;G;2;H1
+Bachstelzenweg;A;5;A2
+Bachstraße;G;1;G2
+Backermatt;B;4;B1
+Baegertstraße;G;1;G2
+Baersberg;F;3;F2
+Bahndyck;F;3;F1
+Bahnhofsplatz;B;4;B2
+Bahnhofstraße;B;4;B2
+Banndeich;F;3;F2
+Bartelgasse;B;4;B2
+Bauerstraße;F;3;F2
+Baumgarten;A;5;A2
+Beatrixstraße;B;4;B1
+Beethovenstraße;D;2;D1
+Beginenstraße;A;5;A2
+Beginnenkamp;F;3;F1
+Bensdorpstraße;B;4;B2
+Benzstraße;H;5;H2
+Bergstraße;B;4;B2
+Berliner Straße;G;1;G2
+Besselstraße;B;4;B2
+Beuthstraße;C;1;C2
+Biesenburgstraße;A;5;A1
+Biesenkamp;E;3;E2
+Biesterstraße;G;1;G2
+Binnenfeld;A;5;A1
+BinnenVoisselt;H;3;H2
+Birkenstraße;G;1;G2
+Birkenweg;H;5;H2
+Bleesweg;G;1;G2
+Bleichen;B;4;B2
+Bleichenberg;B;4;B2
+Blumenstraße;D;2;D2
+Blumenweg;H;2;H1
+Böcklerstraße;D;2;D1
+Bödickerstraße;C;1;C2
+Böllenstege;B;4;B1
+Bongert;E;3;E2
+Borselstege;B;4;B1
+Boschstraße;H;5;H2
+Brabanter Straße;D;5;D2
+Brahmsstraße;D;2;D1
+Brammenfeld;D;2;D2
+Brandenberg;G;1;G1
+Brandströmstraße;D;5;D2
+Braunstraße;F;3;F2
+Braustraße;H;2;H1
+Breiestege;B;4;B1
+Breite Straße;A;5;A2
+Breslauer Straße;E;3;E2
+Bresserbergstraße;D;2;D2
+Briener Straße;F;4;F1
+Brodhof;A;5;A2
+Brücktor;B;4;B2
+Brüningstraße;F;3;F2
+Buchacker;E;3;E1
+Buchholz;G;1;G1
+Bullmannstraße;E;3;E1
+Burggarten;B;4;B2
+Burgstraße;H;2;H1
+Burgunderstraße;D;5;D2
+Bussardstraße;E;3;E2
+Bylandsweg;A;5;A1
+Cellitinnenweg;G;1;H1
+Clemensstraße;C;1;C1
+Cranachstraße;G;1;G2
+Cunostraße;F;3;F2
+Dahlienweg;C;4;C1
+Daimlerstraße;A;5;A2
+Dammstraße;F;3;F1
+Danziger Straße;E;3;E2
+DeBeyer Straße;C;1;C2
+Dehlerstraße;C;4;C1
+Deichbogen;A;5;A1
+Delfter Straße;C;4;C1
+Deriethstraße;H;5;H2
+DeWittStraße;E;3;E1
+Dieselstraße;A;4;A1
+Dietrichstraße;B;5;B2
+Dingdung;A;5;A1
+Dinnendahlstraße;A;5;A2
+Dorfanger;G;1;G1
+Dorfstraße;H;2;H1
+Dr.HeinzWillPlatz;B;4;B1
+Dresdener Straße;G;1;G2
+Drieverweg;A;5;A1
+Drosselstraße;E;3;E2
+Drususdeich;A;5;A2
+Drususstraße;D;5;D2
+Düffelgaustraße;A;5;A1
+Düffelstraße;G;1;G1
+Dürerstraße;G;1;G2
+Duvenpoll;F;3;F2
+Dyckmansweg;B;4;B2
+Echternacher Straße;A;5;A2
+Ehlenstraße;A;5;A1
+Ehlersweg;C;4;C1
+Eichenallee;A;5;A2
+Eichenstraße;G;1;G2
+Eichenwinkel;G;1;G1
+Eiserner Mann;C;1;C2
+Elsenpaß;E;3;E1
+Elsternweg;A;5;A2
+Emmericher Straße von Hausnr. 1-81;F;3;F2
+Emmericher Straße von Hausnr. 82-280;E;3;E2
+Engelsstraße;G;1;G1
+Erikastraße;H;2;H1
+ErnstGoldschmidtStr;B;4;B1
+Erzbergerstraße;F;3;F2
+Esperance;D;2;D2
+Et Steentje;A;5;A2
+Fährmannsweg;A;5;A1
+Falkenweg;A;5;A2
+Fasanenweg;H;2;H1
+Fasbenderstraße;E;3;E1
+Feldmannstege;B;4;B1
+Feldstraße;E;3;E2
+FelixRoeloffsStraße;C;1;C1
+Ferdinandstraße;E;3;E1
+Fettpott;G;1;G1
+Fichtenstraße;G;1;G2
+Finkenweg;E;3;E2
+Fischerweg;F;3;F1
+Fitchburger Straße;C;4;C1
+Flandrische Straße;B;5;B2
+Flasbloem;F;4;F1
+Fleischhauerstraße;B;4;B1
+Fliersol;G;1;G1
+Flinckstraße;C;1;C2
+Florastraße;H;2;H1
+Florianweg;D;5;D2
+Flurstraße;C;1;C1
+Flutstraße;A;4;A1
+Forstweg;D;2;D2
+Frankenstraße von Hausnr. 1-17;B;4;B1
+Frankenstr. von Hausnr.  19-43 und 20-50;B;5;B2
+Frankenstr. von Hausnr.  45-67 und 52-68;D;5;D2
+Fredestraße;D;2;D1
+Friedhofsweg;F;3;F1
+FriedrichEbertRing;F;3;F2
+FritzPannier Straße;D;2;D1
+Fristerweg;A;5;A1
+Fuchsweg;G;1;G2
+Fujistraße;H;5;H2
+GabrieleMünter Straße;C;1;C2
+Galleien;B;4;B2
+Gartenstege;B;4;B1
+Gartenstraße;H;2;H1
+Gärtnergasse;B;4;B1
+Gasthausstraße;B;4;B2
+Geefacker;E;3;E1
+Geeracker;A;5;A1
+Geldenberg;G;1;G1
+Gellsol;G;1;G1
+Gemeindeweg;G;1;G2
+Genneper Straße;C;4;C1
+Georgstraße;C;4;C1
+Georgsweg;H;5;H2
+Germaniastraße;C;4;C1
+GertrudBossStraße;C;1;C1
+Gerwin;B;4;B1
+Gildeweg;F;3;F2
+Ginsterweg;H;5;H2
+Gnadenthal;H;5;H2
+Goethestraße;A;4;A1
+Goldacker;E;3;E2
+Goldstraße;B;4;B1
+Görresstraße;D;2;D1
+Grabenstraße;B;4;B2
+GrafJohannStraße;B;4;B1
+GrafOttoStraße;D;2;D1
+GrafRanzowStraße;H;2;H1
+Grenzallee;D;2;D2
+Grenzweg;F;3;F1
+Grindweide;A;5;A1
+Große Straße;B;4;B1
+Großer Heideberg;B;4;B1
+Großer Markt;B;4;B1
+Gruftgasse;B;4;B2
+Gruftstraße;B;4;B2
+Grüner Heideberg;B;4;B1
+Grüner Ring;H;2;H1
+Grüner Weg;F;3;F2
+Grunewaldstraße;G;1;G1
+Gütchen;E;3;E1
+Gutenbergstraße;D;2;D1
+Gymnasiumstege;B;4;B1
+Hafenstraße;B;4;B2
+Hagsche Poort;B;4;B1
+Hagsche Straße;B;4;B1
+Hahnenacker;F;3;F2
+Halderweide;A;5;A1
+Hammscher Kerkweg;E;3;E2
+Hammscher Weg von Hausnr. 1-22;E;3;E2
+Hammscher Weg von Hausnr 43-74;F;4;F1
+Hamstraße;G;1;G2
+HannsLamersPlatz;B;4;B2
+Harvantsweg;A;5;A1
+Hasenberg;B;4;B1
+Hasenweg;G;1;G2
+Hauptstraße;H;5;H2
+Havik;A;5;A2
+Haydnstraße;D;2;D1
+Heerstraße;A;5;A1
+Heidberg;D;2;D2
+Heideberger Mauer;B;4;B1
+Heidestraße;H;5;H2
+Heinestraße;G;1;G2
+HeinrichBauseStraße;E;3;E1
+Heinrichsstraße;H;2;H1
+Heldgasse;B;4;B2
+Heldstraße;B;4;B2
+Hellingsbüschchen;D;2;D1
+HenriDunantStraße;C;1;C2
+Herderstraße;A;4;A1
+Heresbachstraße;H;4;H2
+HermannGmeiner Straße;D;2;D2
+HermannPardunStraße;F;4;F1
+Hermannstraße;A;5;A2
+Hermesplatz;F;3;F2
+Hertenberg;B;4;B2
+HerzogAdolfsweg;D;5;D2
+Herzogbrücke;B;4;B2
+Herzogstraße;B;4;B2
+Hirschbruch;G;1;G1
+Hirschpfuhl;D;2;D2
+Hirschweg;G;1;G2
+Hofacker;A;5;A1
+Hofberg;G;1;G1
+Hoffmannallee;C;2;C1
+Hohe Straße;A;5;A2
+Höhenweg;H;2;H1
+Hoher Weg;E;3;E2
+Holbeinstraße;C;1;C2
+Hölderlinstraße;G;1;G2
+Holthuysstraße;G;1;G2
+Hölzernes Wams;C;4;C1
+Hooge Hurdt;E;3;E2
+Hooge Wey;F;3;F2
+Hooger Geest;F;4;F1
+Hopfensackstege;B;4;B1
+Hornstege;C;4;C1
+Hövelscher Weg;F;3;F2
+Huf‘scher Weg;A;5;A1
+Hüfgen;G;1;G1
+Hügelweg;H;2;H1
+Huisberdener Straße;F;3;F2
+Huiskampstraße;F;3;F2
+Huissener Straße;C;1;C1
+Hunscheidtstraße;D;5;D2
+Iltisweg;G;1;G1
+Im Hag;C;4;C1
+Im Huck;F;3;F2
+Im Winkel;A;5;A1
+In de Kamp;G;1;G2
+In de Klink;G;1;G1
+In den Galleien;B;4;B2
+In der Aue;B;4;B2
+Jägerstraße;C;1;C2
+Jahnstraße;E;3;E1
+Janssenstraße;A;5;A2
+Jenaer Straße;G;1;G2
+JohannaSebusStraße;H;3;H2
+Johannesstraße;E;3;E1
+JohannManger Straße;E;3;E2
+JosephBeuysAllee;H;5;H2
+Jülicher Straße;D;2;D1
+Jungferngraben;E;3;E1
+Jungfernstraße;F;3;F2
+Kahle Plack;G;1;G1
+Kalkarer Straße;B;4;B2
+Kämpstraße;H;5;H2
+Kanalstraße;A;4;A1
+Kapellenstraße;H;2;H1
+Kapitelstraße;B;4;B1
+KaplanMertensStraße;G;1;G2
+Kapuzinerstraße;H;4;H2
+KarlKistersStraße;H;5;H2
+KarlLeisner Straße;C;1;C1
+Karlstraße;B;4;B2
+Karolingerstraße;D;2;D1
+Karussellplatz;B;4;B1
+Kasinostraße;B;4;B1
+Kastanienweg;D;2;D2
+Katharinenweg;A;5;A1
+Kattenwald;G;1;G1
+Katzenhof;G;1;G2
+Kavarinerstraße;B;4;B1
+Kayserstraße;G;1;G2
+Keekener Straße;A;5;A2
+Kellenshof;E;3;E1
+Kellensward;E;3;E1
+Kellerskathweg;A;5;A2
+Kendelstraße;H;2;H1
+Kerkenkamp;H;3;H2
+Kerkpad;A;5;A2
+Kermisdahlstraße;B;4;B2
+Kermisdahlufer;B;4;B2
+Ketelweg;G;1;G1
+Kiebitzweg;A;5;A2
+Kiefernweg;G;1;G2
+Kiesstraße;A;5;A2
+Kirchplatz;C;4;B1
+Kirchstraße;B;4;B1
+Kirchweg;H;2;H1
+Kleine Rembrandtstr.;C;1;C2
+Kleiner Markt;B;4;B1
+Kleiststraße;D;2;D1
+Klever Berg;D;2;D2
+Klever Straße;A;5;A1
+Klever Ring;A;4;H2
+Klombeckstraße von Hausnr. 1-56;C;1;C2
+Klombeckstraße von Hausnr. 58-107;C;4;C1
+Kloppberg;B;4;B1
+Klosterhof;F;3;F1
+Klosterstraße;F;3;F1
+Knipweg;F;3;F2
+Knollenberg;G;1;G1
+Kockstege;B;4;B1
+Koekkoekplatz;B;4;B1
+Koekkoekstege;B;4;B2
+Köhlerweg;G;1;G1
+Kolberger Straße;E;3;E2
+Kolpingstraße;B;4;B1
+Költjes Wey;F;3;F2
+Königsallee;D;2;D2
+Königsgarten;B;4;B2
+KonradAdenauer Straße;F;2;F2
+Köppenkamp;F;3;F1
+Koppersweide;E;3;E2
+Körnerstraße;G;1;G2
+Köstersweg;E;3;E2
+Krähenhorst;E;3;E2
+Krähental;G;1;G1
+Kranenburger Straße;H;5;H2
+Kranichweg;A;5;A1
+Kreuzhofstraße;E;3;E1
+Kreuzstege;H;2;H1
+Krohnestraße;C;1;C2
+Kropse Weg;F;3;F2
+Kruisbergstraße;D;2;D2
+Küfenstraße;B;4;B1
+Kuhstraße;D;2;D2
+Küpperstraße;D;2;D1
+KurtSchumacher Str.;F;2;F2
+Kurze Marktstraße;B;4;B1
+Kurze Straße;H;5;H2
+Kurzer Weg;H;2;H1
+Laerweg;A;5;A1
+Lambeer;E;3;E1
+Lambertstraße;F;3;F1
+Lambertusstraße;H;5;H2
+Landwehr;A;5;A2
+Lärchenstraße;G;1;G2
+Laurenzstraße;E;3;E1
+Lehmkuhle;D;2;D2
+Leinpfad;B;4;F1
+Leitgraben;E;3;E1
+Lessingstraße;G;1;G2
+Liesegangstraße;C;1;C2
+Lindenallee von Hausnr. 1-43;B;4;B1
+Lindenallee von Hausnr.  44-60 und 45-103;B;2;C1
+Lindenallee von Hausnr.  64-92 und 107-141;D;2;D2
+Lindenstraße;E;3;E1
+Lippstädter Straße;C;1;C2
+LiseMeitner Straße;F;4;F1
+Lohengrinstraße;B;4;B2
+Lohrweg;A;5;A1
+Lohstätte;B;4;B2
+Löwenstraße;F;3;F1
+Lüdeckestraße;C;1;C2
+LudwigErhardStraße;F;3;F2
+LudwigJahnStraße;A;4;A1
+Luisenplatz;E;3;E1
+Lüps`sche Straße;F;4;F1
+Maasstraße;H;2;H1
+Marderweg;G;1;G1
+MarieCurieStraße;F;4;F1
+Märkische Straße;C;1;C2
+Marktstraße;B;4;B1
+Markusstraße;C;4;C1
+Maronenweg;D;2;D2
+MarsCamulusStraße;A;5;A2
+MartinSchenkStraße;F;3;F1
+Martinstraße;F;3;F1
+Martinusplatz;F;3;F1
+Maselberg;G;1;G1
+Materborner Allee;G;1;G1
+Mauritiussiedlung;A;5;A1
+Mausgarten;C;1;C2
+MedlineStraße;F;4;F1
+Mehrer Straße;H;5;H2
+Meilerweg;G;1;G1
+Meisenweg;E;3;E2
+Meißnerstraße;B;4;B2
+Merowingerstraße;D;2;D1
+Minoritenstraße;B;4;B2
+Minoritenplatz;B;4;B2
+Mittelweg;D;2;D1
+Molkereiweg;A;5;A2
+Mönnekenwald;G;1;G1
+Monte Bello;D;2;D2
+Moränenhöhe;H;2;H1
+Mörikestraße;G;1;G2
+Möwenweg;A;5;A2
+Mozartstraße;D;2;D1
+Mühlenkamp;H;5;H2
+Mühlenstege;B;4;B1
+Mühlenstraße;E;3;E1
+Mühlenweg;F;3;F1
+Mühsol;G;1;G1
+Müschenfeld;F;4;F1
+Nassauerallee
+von Hausnr. 132;B;4;B1
+Nassauerallee
+von Hausnr. 40188;C;1;C2
+Nassauermauer;B;4;B1
+Nassauerstraße;B;4;B1
+Neerfeldstraße;E;3;E2
+Nelkenstraße;D;2;D1
+Neue Werft;A;4;A1
+Nieler Straße;A;5;A1
+Niersstraße;H;2;H1
+Nimweger Straße;D;2;D2
+Nössling;H;5;H2
+Nosenhof;B;4;B2
+Oberstraße;F;3;F1
+Olmerstraße;F;3;F1
+Op de Botter;E;3;E2
+Op de Heij;H;5;H2
+Op den Dries;F;3;F2
+Opschlag;B;4;B2
+Oraniendeich;F;3;F2
+Oststraße;E;3;E1
+Overbergstraße;E;3;E1
+Palmenbaumweg;A;5;A1
+Pannofenstraße;B;4;B2
+Papenfeldweg;H;5;H2
+Papengatt;G;1;G1
+Pappelstraße;G;1;G2
+Pappelweg;E;3;E1
+Pässchen;F;3;F1
+Pastoratsweg;G;1;G1
+PastorFonckWeg;H;5;H2
+PastorJanßenWeg;D;2;D1
+PastorLeinungPlatz;B;4;B2
+Peiterstraße;E;3;E2
+PfarrerKneippStraße;H;2;H1
+PfarrerLookStraße;A;5;A2
+Plaggenweg;G;1;G1
+Pohlackersweg;A;5;A1
+Postdeich;F;3;F1
+Poststraße;D;2;D2
+Pottegatt;H;5;H2
+Prickenweide;F;3;F1
+Prinzenhof;B;4;B1
+Propsteistraße;B;4;B1
+Querallee;C;1;C1
+Querstraße;F;4;F1
+Rahmstraße;B;4;B1
+Rathenaustraße;F;3;F2
+Ravensberger Straße;C;1;C2
+Reeser Straße;E;3;E2
+Regenbogen;B;4;B1
+Regerstraße;G;1;G2
+Rehweg;G;1;G2
+Reimsweg;A;5;A2
+Reitbahn;B;4;B1
+Rembrandtstraße;C;1;C2
+Reymerstraße;A;5;A2
+Rheinstraße;F;3;F1
+RichardvandeLooStr;D;2;D1
+Rietpaß;A;5;A1
+Rinderner Straße;A;5;A1
+Rindernscher Deich;H;4;H2
+Ringstraße;B;4;B1
+Rintscherweg;A;5;A1
+Riswicker Straße;E;3;E1
+Robertstraße;E;3;E2
+Rolandstraße;C;4;C1
+Römerstraße;B;5;B2
+Ronser Straße;G;1;G2
+RosaLuxemburgStraße;F;3;F2
+Rosenstraße;D;2;D1
+Rosenweg;C;4;C1
+Röstendaalstraße;A;5;A1
+Rostocker Straße;G;1;G2
+Rubensweg;C;1;C2
+Ruppenthaler Weg;H;2;H1
+Rütgerstraße;B;4;B1
+Saalhof;G;1;G2
+Saalstraße;H;2;H1
+Saalweg;H;2;H1
+Sackstraße
+von Hausnr. 1145;C;1;C2
+Sackstraße
+von Hausnr. 147196;C;4;C1
+Salmorth;F;3;F1
+Sandstraße;A;5;A1
+Sandweg;H;2;H1
+Schaarweg;F;3;F2
+Schaepenfeld;D;2;D2
+Schauinsland;D;2;D1
+Scheidemannstraße;F;3;F2
+Schenkenschanz;F;3;F1
+Schildacker;F;3;F2
+Schillerstraße;A;4;A1
+Schlehhecke;G;1;G2
+Schloßberg;B;4;B1
+Schloßstraße;B;4;B1
+Schloßtorstraße;B;4;B1
+Schlötel;E;3;E1
+Schlucht;H;5;H2
+Schlußgasse;B;4;B1
+Schmidtstraße;D;2;D1
+Schmiedjesweg;F;3;F2
+Schollenrondell;B;4;B1
+Scholtenstraße;D;2;D1
+Schröderstraße;D;2;D1
+Schubertstraße;G;1;G2
+Schulgasse;B;4;B1
+Schulstraße;E;3;E1
+Schulweg;A;5;A1
+Schürkamp;A;5;A2
+Schüttestraße;D;2;D1
+Schwänchen;F;3;F2
+Schwanenstraße;B;4;B1
+Schweinemarkt;B;4;B1
+Schweizer Straße;D;2;D2
+Selfkant;E;3;E1
+Serntstraße;A;5;A2
+Severingstraße;F;3;F2
+Siegener Straße;C;1;C2
+Siegertstraße;C;1;C2
+Siegfriedstraße;C;4;C1
+Siemensstraße;H;5;H2
+Soester Straße;C;1;C2
+Sommerdeich;A;4;A1
+Sonnenweg;F;4;F1
+Sperlingsweg;A;5;A2
+Spicker;A;5;A1
+Spielberg;H;5;H2
+Spitzgasse;B;4;B2
+Spoyufer;B;4;B2
+Spyckscher Baum;H;3;H2
+Spyckstraße
+von Hausnr. 192;A;4;A1
+Spyckstraße
+von Hausnr. 101257;A;5;A2
+St. Annaberg;H;2;H1
+Stadionstraße;D;2;D1
+Stadtbadstraße;B;4;B2
+Stadtwald;D;2;D2
+Stapperstraße;D;2;D1
+Starenweg;E;3;E2
+Starthof;H;5;H2
+Stechbahn;B;4;B1
+Steege;F;3;F1
+Steenowe;F;3;E2
+Steenpad;E;3;E2
+Stegstraße;A;5;A1
+Steinstraße;F;4;F1
+Stelzenweg;E;3;E2
+Stephanstraße;B;4;B2
+Stettiner Straße;B;4;B2
+Stickestraße;B;4;B1
+Stieglitzweg;E;3;E2
+Stiller Winkel;H;5;H2
+Stoppelberg;G;1;G1
+Stresemannstraße;F;3;F2
+Südstraße;C;1;C2
+Talstraße;H;2;H1
+Tannenweg;D;2;D2
+Tavenraatstraße;G;1;G2
+Thaerstraße;D;2;D1
+TheodorHeussStraße;C;4;C1
+Theodorstraße;A;5;A2
+Tichelstraße;A;5;A2
+Tichlers Mühle;D;2;D1
+Tiergartenstr. von Hausnr.
+133 und 250;B;4;B2
+Tiergartenstr. von Hausnr.
+35111 und 52112;H;5;H2
+Tillsiterstraße;G;1;G2
+Tinthofstraße;G;1;G2
+Tochtgraben;F;3;F2
+Treppkesweg;H;2;H1
+Triftstraße von Hausnr.
+199 und 2118;C;1;C2
+Triftstraße von Hausnr.
+105159 und 126180;F;2;F2
+Trübsche Straße;A;5;A1
+Tulpenweg;D;2;D1
+Turmstraße;B;4;B2
+Tweestrom;A;5;A2
+Uedemer Straße;C;1;C1
+Uhlandstraße;G;1;G2
+Ulmenweg;E;3;E1
+Valentinsweg;B;5;H2
+vanBrachtStege;B;4;B1
+vanBrackelStraße;C;1;C2
+vandeLochtStraße;E;3;E1
+vandenBerghStraße;E;3;E2
+vanGoyenStraße;G;1;G2
+vanHoutenStraße;F;4;F1
+vanKampenStraße;H;5;H2
+Veldeckestraße;B;4;B2
+Visdael;F;3;F2
+vonBrentanoStraße;C;4;C1
+vonEyllStraße;H;5;H2
+vonGalenStraße;B;4;B1
+vonKetteler Straße;F;4;F1
+vonVelsenStraße;D;2;D1
+Vossegatt;A;5;A1
+Vossenfeld;E;3;E1
+Waalstraße;H;2;H1
+Wagnerstraße;D;2;D1
+Waldsaum;H;5;H2
+Waldstraße;D;5;D2
+Wasserburgallee
+von Hausnr. 2052;H;5;H2
+Wasserburgallee
+von Hausnr. 112120;A;5;A2
+Wasserstraße;B;4;B2
+Wasserweg;D;2;D2
+Webergasse;B;4;B2
+Weberstraße;B;4;B2
+Wehrpöhl;F;3;F1
+Weidenstraße;A;5;A2
+Welbershöhe;D;2;D1
+Werftstraße;B;4;B2
+Weseler Straße;C;1;C2
+Weyerstege
+von Hausnr. 129;B;4;B1
+Weyerstege
+von Hausnr. 3657;C;1;C2
+Wiesenstraße;E;4;F1
+Wildgehege;G;1;G2
+WilhelmFriesStraße;D;2;D2
+WilhelmReintjesStr.;E;3;E2
+WilhelmSinstedenStr;F;4;F1
+Wilhelmstraße;E;3;E1
+Willibrordstraße;E;3;E1
+WillyBrandtStraße;D;2;D1
+Winkelgasse;B;4;B2
+Wolfsgraben;G;1;G1
+Worcester Straße;C;1;C1
+Ziegelstraße;A;5;A2
+Zum Breijpott;E;3;E1
+Zur alten Kirche;E;3;E1
+Zur Alten Mühle;A;5;A2
+Zur Buchenhecke;H;5;H2
+Zur Schleuse;F;4;F1
+Zyfflicher Straße;A;5;A1

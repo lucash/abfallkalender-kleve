@@ -1,0 +1,4226 @@
+[
+{
+  "street": "Ackersheide",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Ackerstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Ahornstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Albersallee",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C1"
+},
+{
+  "street": "Albrechtstraße",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "Alexanderhof",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Alexanderstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Alte Bahn",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Alte Mühle",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Alte Reeser Straße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Alte Schulgasse",
+  "yellow": "B",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "Alte Schulstraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Am alden Schmidt",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Am alten Rhein",
+  "yellow": "F",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "Am Bruderbaum",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Am Damm",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Am Deich",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Am Ehrenmal",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Am Forstgarten",
+  "yellow": "H",
+  "bins": 4,
+  "others": "H2"
+},
+{
+  "street": "Am Forsthaus",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Am Freudenberg",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C1"
+},
+{
+  "street": "Am Hang",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Am Haus Bimmen",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Am Hecken",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Am Leitgraben",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Am Mühlenberg",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Am Naturpark",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Am Orth",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Am Pölleken",
+  "yellow": "H",
+  "bins": 3,
+  "others": "H2"
+},
+{
+  "street": "Am Postdeich",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Am Ruppenberg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Am Schützenhaus",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Am Sender",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Am Sportplatz",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Am Stein",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Amselstraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "An den Vier Winden",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "An der Brücke",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "An der Hand",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "An der Kirche",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "An der Ley",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "An der Münze",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "An der Spoy",
+  "yellow": "F",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "An der Willibrordschule",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Angerhausenstege",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Annabergstraße",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "AnnavonCleveStr.",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Antoniusstraße",
+  "yellow": "F",
+  "bins": 2,
+  "others": "F2"
+},
+{
+  "street": "Antonstraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Apostelstraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Arnoldstraße",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "Arntzstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Arnulfstraße",
+  "yellow": "B",
+  "bins": 5,
+  "others": "B2"
+},
+{
+  "street": "Asternweg",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Auf dem Kamp",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Auf dem Sand",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Augustinusweg",
+  "yellow": "G",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Bachstelzenweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Bachstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Backermatt",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Baegertstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Baersberg",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Bahndyck",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Bahnhofsplatz",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Bahnhofstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Banndeich",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Bartelgasse",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Bauerstraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Baumgarten",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Beatrixstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Beethovenstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Beginenstraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Beginnenkamp",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Bensdorpstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Benzstraße",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Bergstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Berliner Straße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Besselstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Beuthstraße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Biesenburgstraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Biesenkamp",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Biesterstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Binnenfeld",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "BinnenVoisselt",
+  "yellow": "H",
+  "bins": 3,
+  "others": "H2"
+},
+{
+  "street": "Birkenstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Birkenweg",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Bleesweg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Bleichen",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Bleichenberg",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Blumenstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Blumenweg",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Böcklerstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Bödickerstraße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Böllenstege",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Bongert",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Borselstege",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Boschstraße",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Brabanter Straße",
+  "yellow": "D",
+  "bins": 5,
+  "others": "D2"
+},
+{
+  "street": "Brahmsstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Brammenfeld",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Brandenberg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Brandströmstraße",
+  "yellow": "D",
+  "bins": 5,
+  "others": "D2"
+},
+{
+  "street": "Braunstraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Braustraße",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Breiestege",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Breite Straße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Breslauer Straße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Bresserbergstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Briener Straße",
+  "yellow": "F",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "Brodhof",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Brücktor",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Brüningstraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Buchacker",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Buchholz",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Bullmannstraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Burggarten",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Burgstraße",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Burgunderstraße",
+  "yellow": "D",
+  "bins": 5,
+  "others": "D2"
+},
+{
+  "street": "Bussardstraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Bylandsweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Cellitinnenweg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "H1"
+},
+{
+  "street": "Clemensstraße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C1"
+},
+{
+  "street": "Cranachstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Cunostraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Dahlienweg",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "Daimlerstraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Dammstraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Danziger Straße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "DeBeyer Straße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Dehlerstraße",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "Deichbogen",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Delfter Straße",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "Deriethstraße",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "DeWittStraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Dieselstraße",
+  "yellow": "A",
+  "bins": 4,
+  "others": "A1"
+},
+{
+  "street": "Dietrichstraße",
+  "yellow": "B",
+  "bins": 5,
+  "others": "B2"
+},
+{
+  "street": "Dingdung",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Dinnendahlstraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Dorfanger",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Dorfstraße",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Dr.HeinzWillPlatz",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Dresdener Straße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Drieverweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Drosselstraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Drususdeich",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Drususstraße",
+  "yellow": "D",
+  "bins": 5,
+  "others": "D2"
+},
+{
+  "street": "Düffelgaustraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Düffelstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Dürerstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Duvenpoll",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Dyckmansweg",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Echternacher Straße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Ehlenstraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Ehlersweg",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "Eichenallee",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Eichenstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Eichenwinkel",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Eiserner Mann",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Elsenpaß",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Elsternweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Emmericher Straße von Hausnr. 1-81",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Emmericher Straße von Hausnr. 82-280",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Engelsstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Erikastraße",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "ErnstGoldschmidtStr",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Erzbergerstraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Esperance",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Et Steentje",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Fährmannsweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Falkenweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Fasanenweg",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Fasbenderstraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Feldmannstege",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Feldstraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "FelixRoeloffsStraße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C1"
+},
+{
+  "street": "Ferdinandstraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Fettpott",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Fichtenstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Finkenweg",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Fischerweg",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Fitchburger Straße",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "Flandrische Straße",
+  "yellow": "B",
+  "bins": 5,
+  "others": "B2"
+},
+{
+  "street": "Flasbloem",
+  "yellow": "F",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "Fleischhauerstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Fliersol",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Flinckstraße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Florastraße",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Florianweg",
+  "yellow": "D",
+  "bins": 5,
+  "others": "D2"
+},
+{
+  "street": "Flurstraße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C1"
+},
+{
+  "street": "Flutstraße",
+  "yellow": "A",
+  "bins": 4,
+  "others": "A1"
+},
+{
+  "street": "Forstweg",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Frankenstraße von Hausnr. 1-17",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Frankenstr. von Hausnr.  19-43 und 20-50",
+  "yellow": "B",
+  "bins": 5,
+  "others": "B2"
+},
+{
+  "street": "Frankenstr. von Hausnr.  45-67 und 52-68",
+  "yellow": "D",
+  "bins": 5,
+  "others": "D2"
+},
+{
+  "street": "Fredestraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Friedhofsweg",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "FriedrichEbertRing",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "FritzPannier Straße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Fristerweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Fuchsweg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Fujistraße",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "GabrieleMünter Straße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Galleien",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Gartenstege",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Gartenstraße",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Gärtnergasse",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Gasthausstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Geefacker",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Geeracker",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Geldenberg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Gellsol",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Gemeindeweg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Genneper Straße",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "Georgstraße",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "Georgsweg",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Germaniastraße",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "GertrudBossStraße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C1"
+},
+{
+  "street": "Gerwin",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Gildeweg",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Ginsterweg",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Gnadenthal",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Goethestraße",
+  "yellow": "A",
+  "bins": 4,
+  "others": "A1"
+},
+{
+  "street": "Goldacker",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Goldstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Görresstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Grabenstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "GrafJohannStraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "GrafOttoStraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "GrafRanzowStraße",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Grenzallee",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Grenzweg",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Grindweide",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Große Straße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Großer Heideberg",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Großer Markt",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Gruftgasse",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Gruftstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Grüner Heideberg",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Grüner Ring",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Grüner Weg",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Grunewaldstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Gütchen",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Gutenbergstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Gymnasiumstege",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Hafenstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Hagsche Poort",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Hagsche Straße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Hahnenacker",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Halderweide",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Hammscher Kerkweg",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Hammscher Weg von Hausnr. 1-22",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Hammscher Weg von Hausnr 43-74",
+  "yellow": "F",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "Hamstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "HannsLamersPlatz",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Harvantsweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Hasenberg",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Hasenweg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Hauptstraße",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Havik",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Haydnstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Heerstraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Heidberg",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Heideberger Mauer",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Heidestraße",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Heinestraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "HeinrichBauseStraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Heinrichsstraße",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Heldgasse",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Heldstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Hellingsbüschchen",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "HenriDunantStraße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Herderstraße",
+  "yellow": "A",
+  "bins": 4,
+  "others": "A1"
+},
+{
+  "street": "Heresbachstraße",
+  "yellow": "H",
+  "bins": 4,
+  "others": "H2"
+},
+{
+  "street": "HermannGmeiner Straße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "HermannPardunStraße",
+  "yellow": "F",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "Hermannstraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Hermesplatz",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Hertenberg",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "HerzogAdolfsweg",
+  "yellow": "D",
+  "bins": 5,
+  "others": "D2"
+},
+{
+  "street": "Herzogbrücke",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Herzogstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Hirschbruch",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Hirschpfuhl",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Hirschweg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Hofacker",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Hofberg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Hoffmannallee",
+  "yellow": "C",
+  "bins": 2,
+  "others": "C1"
+},
+{
+  "street": "Hohe Straße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Höhenweg",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Hoher Weg",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Holbeinstraße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Hölderlinstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Holthuysstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Hölzernes Wams",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "Hooge Hurdt",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Hooge Wey",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Hooger Geest",
+  "yellow": "F",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "Hopfensackstege",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Hornstege",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "Hövelscher Weg",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Huf‘scher Weg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Hüfgen",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Hügelweg",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Huisberdener Straße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Huiskampstraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Huissener Straße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C1"
+},
+{
+  "street": "Hunscheidtstraße",
+  "yellow": "D",
+  "bins": 5,
+  "others": "D2"
+},
+{
+  "street": "Iltisweg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Im Hag",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "Im Huck",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Im Winkel",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "In de Kamp",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "In de Klink",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "In den Galleien",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "In der Aue",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Jägerstraße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Jahnstraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Janssenstraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Jenaer Straße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "JohannaSebusStraße",
+  "yellow": "H",
+  "bins": 3,
+  "others": "H2"
+},
+{
+  "street": "Johannesstraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "JohannManger Straße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "JosephBeuysAllee",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Jülicher Straße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Jungferngraben",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Jungfernstraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Kahle Plack",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Kalkarer Straße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Kämpstraße",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Kanalstraße",
+  "yellow": "A",
+  "bins": 4,
+  "others": "A1"
+},
+{
+  "street": "Kapellenstraße",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Kapitelstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "KaplanMertensStraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Kapuzinerstraße",
+  "yellow": "H",
+  "bins": 4,
+  "others": "H2"
+},
+{
+  "street": "KarlKistersStraße",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "KarlLeisner Straße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C1"
+},
+{
+  "street": "Karlstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Karolingerstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Karussellplatz",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Kasinostraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Kastanienweg",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Katharinenweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Kattenwald",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Katzenhof",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Kavarinerstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Kayserstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Keekener Straße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Kellenshof",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Kellensward",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Kellerskathweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Kendelstraße",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Kerkenkamp",
+  "yellow": "H",
+  "bins": 3,
+  "others": "H2"
+},
+{
+  "street": "Kerkpad",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Kermisdahlstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Kermisdahlufer",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Ketelweg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Kiebitzweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Kiefernweg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Kiesstraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Kirchplatz",
+  "yellow": "C",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Kirchstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Kirchweg",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Kleine Rembrandtstr.",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Kleiner Markt",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Kleiststraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Klever Berg",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Klever Straße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Klever Ring",
+  "yellow": "A",
+  "bins": 4,
+  "others": "H2"
+},
+{
+  "street": "Klombeckstraße von Hausnr. 1-56",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Klombeckstraße von Hausnr. 58-107",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "Kloppberg",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Klosterhof",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Klosterstraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Knipweg",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Knollenberg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Kockstege",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Koekkoekplatz",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Koekkoekstege",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Köhlerweg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Kolberger Straße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Kolpingstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Költjes Wey",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Königsallee",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Königsgarten",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "KonradAdenauer Straße",
+  "yellow": "F",
+  "bins": 2,
+  "others": "F2"
+},
+{
+  "street": "Köppenkamp",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Koppersweide",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Körnerstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Köstersweg",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Krähenhorst",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Krähental",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Kranenburger Straße",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Kranichweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Kreuzhofstraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Kreuzstege",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Krohnestraße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Kropse Weg",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Kruisbergstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Küfenstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Kuhstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Küpperstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "KurtSchumacher Str.",
+  "yellow": "F",
+  "bins": 2,
+  "others": "F2"
+},
+{
+  "street": "Kurze Marktstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Kurze Straße",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Kurzer Weg",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Laerweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Lambeer",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Lambertstraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Lambertusstraße",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Landwehr",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Lärchenstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Laurenzstraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Lehmkuhle",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Leinpfad",
+  "yellow": "B",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "Leitgraben",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Lessingstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Liesegangstraße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Lindenallee von Hausnr. 1-43",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Lindenallee von Hausnr.  44-60 und 45-103",
+  "yellow": "B",
+  "bins": 2,
+  "others": "C1"
+},
+{
+  "street": "Lindenallee von Hausnr.  64-92 und 107-141",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Lindenstraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Lippstädter Straße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "LiseMeitner Straße",
+  "yellow": "F",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "Lohengrinstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Lohrweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Lohstätte",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Löwenstraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Lüdeckestraße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "LudwigErhardStraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "LudwigJahnStraße",
+  "yellow": "A",
+  "bins": 4,
+  "others": "A1"
+},
+{
+  "street": "Luisenplatz",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Lüps`sche Straße",
+  "yellow": "F",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "Maasstraße",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Marderweg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "MarieCurieStraße",
+  "yellow": "F",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "Märkische Straße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Marktstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Markusstraße",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "Maronenweg",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "MarsCamulusStraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "MartinSchenkStraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Martinstraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Martinusplatz",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Maselberg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Materborner Allee",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Mauritiussiedlung",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Mausgarten",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "MedlineStraße",
+  "yellow": "F",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "Mehrer Straße",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Meilerweg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Meisenweg",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Meißnerstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Merowingerstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Minoritenstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Minoritenplatz",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Mittelweg",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Molkereiweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Mönnekenwald",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Monte Bello",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Moränenhöhe",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Mörikestraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Möwenweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Mozartstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Mühlenkamp",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Mühlenstege",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Mühlenstraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Mühlenweg",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Mühsol",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Müschenfeld",
+  "yellow": "F",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "Nassauerallee"
+},
+{
+  "street": "von Hausnr. 132",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Nassauerallee"
+},
+{
+  "street": "von Hausnr. 40188",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Nassauermauer",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Nassauerstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Neerfeldstraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Nelkenstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Neue Werft",
+  "yellow": "A",
+  "bins": 4,
+  "others": "A1"
+},
+{
+  "street": "Nieler Straße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Niersstraße",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Nimweger Straße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Nössling",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Nosenhof",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Oberstraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Olmerstraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Op de Botter",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Op de Heij",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Op den Dries",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Opschlag",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Oraniendeich",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Oststraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Overbergstraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Palmenbaumweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Pannofenstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Papenfeldweg",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Papengatt",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Pappelstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Pappelweg",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Pässchen",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Pastoratsweg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "PastorFonckWeg",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "PastorJanßenWeg",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "PastorLeinungPlatz",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Peiterstraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "PfarrerKneippStraße",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "PfarrerLookStraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Plaggenweg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Pohlackersweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Postdeich",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Poststraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Pottegatt",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Prickenweide",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Prinzenhof",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Propsteistraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Querallee",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C1"
+},
+{
+  "street": "Querstraße",
+  "yellow": "F",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "Rahmstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Rathenaustraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Ravensberger Straße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Reeser Straße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Regenbogen",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Regerstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Rehweg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Reimsweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Reitbahn",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Rembrandtstraße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Reymerstraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Rheinstraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "RichardvandeLooStr",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Rietpaß",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Rinderner Straße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Rindernscher Deich",
+  "yellow": "H",
+  "bins": 4,
+  "others": "H2"
+},
+{
+  "street": "Ringstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Rintscherweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Riswicker Straße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Robertstraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Rolandstraße",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "Römerstraße",
+  "yellow": "B",
+  "bins": 5,
+  "others": "B2"
+},
+{
+  "street": "Ronser Straße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "RosaLuxemburgStraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Rosenstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Rosenweg",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "Röstendaalstraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Rostocker Straße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Rubensweg",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Ruppenthaler Weg",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Rütgerstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Saalhof",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Saalstraße",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Saalweg",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Sackstraße"
+},
+{
+  "street": "von Hausnr. 1145",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Sackstraße"
+},
+{
+  "street": "von Hausnr. 147196",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "Salmorth",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Sandstraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Sandweg",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Schaarweg",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Schaepenfeld",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Schauinsland",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Scheidemannstraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Schenkenschanz",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Schildacker",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Schillerstraße",
+  "yellow": "A",
+  "bins": 4,
+  "others": "A1"
+},
+{
+  "street": "Schlehhecke",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Schloßberg",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Schloßstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Schloßtorstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Schlötel",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Schlucht",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Schlußgasse",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Schmidtstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Schmiedjesweg",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Schollenrondell",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Scholtenstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Schröderstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Schubertstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Schulgasse",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Schulstraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Schulweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Schürkamp",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Schüttestraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Schwänchen",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Schwanenstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Schweinemarkt",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Schweizer Straße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Selfkant",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Serntstraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Severingstraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Siegener Straße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Siegertstraße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Siegfriedstraße",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "Siemensstraße",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Soester Straße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Sommerdeich",
+  "yellow": "A",
+  "bins": 4,
+  "others": "A1"
+},
+{
+  "street": "Sonnenweg",
+  "yellow": "F",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "Sperlingsweg",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Spicker",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Spielberg",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Spitzgasse",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Spoyufer",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Spyckscher Baum",
+  "yellow": "H",
+  "bins": 3,
+  "others": "H2"
+},
+{
+  "street": "Spyckstraße"
+},
+{
+  "street": "von Hausnr. 192",
+  "yellow": "A",
+  "bins": 4,
+  "others": "A1"
+},
+{
+  "street": "Spyckstraße"
+},
+{
+  "street": "von Hausnr. 101257",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "St. Annaberg",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Stadionstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Stadtbadstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Stadtwald",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Stapperstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Starenweg",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Starthof",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Stechbahn",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Steege",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Steenowe",
+  "yellow": "F",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Steenpad",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Stegstraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Steinstraße",
+  "yellow": "F",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "Stelzenweg",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Stephanstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Stettiner Straße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Stickestraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Stieglitzweg",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "Stiller Winkel",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Stoppelberg",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Stresemannstraße",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Südstraße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Talstraße",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Tannenweg",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Tavenraatstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Thaerstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "TheodorHeussStraße",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "Theodorstraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Tichelstraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Tichlers Mühle",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Tiergartenstr. von Hausnr."
+},
+{
+  "street": "133 und 250",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Tiergartenstr. von Hausnr."
+},
+{
+  "street": "35111 und 52112",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Tillsiterstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Tinthofstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Tochtgraben",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "Treppkesweg",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Triftstraße von Hausnr."
+},
+{
+  "street": "199 und 2118",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Triftstraße von Hausnr."
+},
+{
+  "street": "105159 und 126180",
+  "yellow": "F",
+  "bins": 2,
+  "others": "F2"
+},
+{
+  "street": "Trübsche Straße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Tulpenweg",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Turmstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Tweestrom",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Uedemer Straße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C1"
+},
+{
+  "street": "Uhlandstraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "Ulmenweg",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Valentinsweg",
+  "yellow": "B",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "vanBrachtStege",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "vanBrackelStraße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "vandeLochtStraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "vandenBerghStraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "vanGoyenStraße",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "vanHoutenStraße",
+  "yellow": "F",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "vanKampenStraße",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Veldeckestraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Visdael",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F2"
+},
+{
+  "street": "vonBrentanoStraße",
+  "yellow": "C",
+  "bins": 4,
+  "others": "C1"
+},
+{
+  "street": "vonEyllStraße",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "vonGalenStraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "vonKetteler Straße",
+  "yellow": "F",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "vonVelsenStraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Vossegatt",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+},
+{
+  "street": "Vossenfeld",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Waalstraße",
+  "yellow": "H",
+  "bins": 2,
+  "others": "H1"
+},
+{
+  "street": "Wagnerstraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Waldsaum",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Waldstraße",
+  "yellow": "D",
+  "bins": 5,
+  "others": "D2"
+},
+{
+  "street": "Wasserburgallee"
+},
+{
+  "street": "von Hausnr. 2052",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Wasserburgallee"
+},
+{
+  "street": "von Hausnr. 112120",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Wasserstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Wasserweg",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "Webergasse",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Weberstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Wehrpöhl",
+  "yellow": "F",
+  "bins": 3,
+  "others": "F1"
+},
+{
+  "street": "Weidenstraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Welbershöhe",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Werftstraße",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Weseler Straße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Weyerstege"
+},
+{
+  "street": "von Hausnr. 129",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B1"
+},
+{
+  "street": "Weyerstege"
+},
+{
+  "street": "von Hausnr. 3657",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C2"
+},
+{
+  "street": "Wiesenstraße",
+  "yellow": "E",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "Wildgehege",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G2"
+},
+{
+  "street": "WilhelmFriesStraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D2"
+},
+{
+  "street": "WilhelmReintjesStr.",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E2"
+},
+{
+  "street": "WilhelmSinstedenStr",
+  "yellow": "F",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "Wilhelmstraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Willibrordstraße",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "WillyBrandtStraße",
+  "yellow": "D",
+  "bins": 2,
+  "others": "D1"
+},
+{
+  "street": "Winkelgasse",
+  "yellow": "B",
+  "bins": 4,
+  "others": "B2"
+},
+{
+  "street": "Wolfsgraben",
+  "yellow": "G",
+  "bins": 1,
+  "others": "G1"
+},
+{
+  "street": "Worcester Straße",
+  "yellow": "C",
+  "bins": 1,
+  "others": "C1"
+},
+{
+  "street": "Ziegelstraße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Zum Breijpott",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Zur alten Kirche",
+  "yellow": "E",
+  "bins": 3,
+  "others": "E1"
+},
+{
+  "street": "Zur Alten Mühle",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A2"
+},
+{
+  "street": "Zur Buchenhecke",
+  "yellow": "H",
+  "bins": 5,
+  "others": "H2"
+},
+{
+  "street": "Zur Schleuse",
+  "yellow": "F",
+  "bins": 4,
+  "others": "F1"
+},
+{
+  "street": "Zyfflicher Straße",
+  "yellow": "A",
+  "bins": 5,
+  "others": "A1"
+}
+]
