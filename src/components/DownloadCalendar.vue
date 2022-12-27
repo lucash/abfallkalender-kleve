@@ -13,7 +13,7 @@
           >Herunterladen</v-btn>
           <v-btn
             v-on="on" 
-            class="actions-btn"
+            class="pa-0 pl-3 actions-btn"
           >
             <v-icon left>mdi-menu-down</v-icon>
           </v-btn>
@@ -45,8 +45,7 @@
   .actions-btn{
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
-    padding: 0 !important;
-    min-width: 35px !important;
+    min-width: auto !important;
   }
   .split-btn{
     display: inline-block;
