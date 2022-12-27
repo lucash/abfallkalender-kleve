@@ -45,7 +45,7 @@
         ref="calendar"
         v-model="focus"
         color="secondary"
-        :events="events"
+        :events="eventsForCalendar"
         :event-color="getEventColor"
         :event-text-color="getEventTextColor"
         weekdays="1, 2, 3, 4, 5, 6, 0"
@@ -59,7 +59,7 @@
   export default {
     name: 'Calendar',
 
-    props: ['events'],
+    props: ['dates'],
 
     data: () => ({
       focus: '',
@@ -71,10 +71,29 @@
     },
 
     watch: {
-      events(newEvents, oldEvents) {
-        if (!oldEvents || oldEvents.length === 0) {
+      dates(newDates, oldDates) {
+        if (oldDates && oldDates.length === 0) {
           this.focusNextDate();
         }
+      }
+    },
+
+    computed: {
+      eventsForCalendar: function () {
+        let calendarDates = [];
+        for (let date of this.dates) {
+          for (let bin of date.bins) {
+            calendarDates.push({
+              name: bin,
+              start: date.dateObject,
+              end: date.dateObject,
+              timed: false,
+              color: this.getColorByBin(bin),
+              textColor: this.getTextColorByBin(bin)
+            });
+          }
+        }
+        return calendarDates;
       }
     },
 
@@ -82,23 +101,54 @@
       getEventColor (event) {
         return event.color;
       },
+
       getEventTextColor (event) {
         return event.textColor;
       },
+
       setToday () {
         this.focus = '';
       },
+
       prev () {
         this.$refs.calendar.prev();
       },
+
       next () {
         this.$refs.calendar.next();
       },
+
       focusNextDate() {
-        if (this.events && this.events.length > 0) {
-          this.focus = this.events[0].start;
+        if (this.dates && this.dates.length > 0) {
+          this.focus = this.dates[0].dateObject;
         }
       },
+
+      getColorByBin: function(bin) {
+        if (bin === 'Wertstoffe') {
+          return 'pink';
+        } else if (bin === 'Graue Tonne') {
+          return 'black';
+        } else if (bin === 'Grüne Tonne') {
+          return 'green';
+        } else if (bin === 'Braune Tonne') {
+          return 'brown';
+        } else if (bin === 'Gelbe Tonne') {
+          return 'yellow';
+        } else if (bin === 'Altglas') {
+          return 'blue';
+        }
+
+        return 'orange';
+      },
+
+      getTextColorByBin: function(bin) {
+        if (bin === 'Gelbe Tonne') {
+          return 'black';
+        }
+
+        return 'white';
+      }
     }
   }
 </script>

@@ -42,7 +42,7 @@
 
         <v-row class="mt-0">
           <v-col cols="12" class="pt-0">
-            <Calendar :events="calendarDates" />
+            <Calendar :dates="dates" />
           </v-col>
         </v-row>
       </v-container>
@@ -99,23 +99,6 @@ export default {
       }
       return datesList;
     },
-    calendarDates: function () {
-      let calendarDates = [];
-      for (let date of this.dates) {
-        for (let bin of date.bins) {
-
-          calendarDates.push({
-            name: bin,
-            start: date.dateObject,
-            end: date.dateObject,
-            timed: false,
-            color: this.getColorByBin(bin),
-            textColor: this.getTextColorByBin(bin)
-          });
-        }
-      }
-      return calendarDates;
-    }
   },
 
   data: () => ({
@@ -127,31 +110,6 @@ export default {
       window.localStorage.setItem('abfuhrtermine-kleve-selected-street', this.selectedStreet);
     },
 
-    getColorByBin: function(bin) {
-          if (bin === 'Wertstoffe') {
-            return 'pink';
-          } else if (bin === 'Graue Tonne') {
-            return 'black';
-          } else if (bin === 'Grüne Tonne') {
-            return 'green';
-          } else if (bin === 'Braune Tonne') {
-            return 'brown';
-          } else if (bin === 'Gelbe Tonne') {
-            return 'yellow';
-          } else if (bin === 'Altglas') {
-            return 'blue';
-          }
-
-          return 'orange';
-    },
-
-    getTextColorByBin: function(bin) {
-          if (bin === 'Gelbe Tonne') {
-            return 'black';
-          }
-
-          return 'white';
-    }
   }
 };
 </script>
