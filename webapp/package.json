@@ -3,9 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "serve": "npm run prepare-data && vue-cli-service serve",
+    "build": "npm run prepare-data && vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "prepare-data": "cd data-preparation && ./calculate.js"
   },
   "dependencies": {
     "core-js": "^3.6.5",
