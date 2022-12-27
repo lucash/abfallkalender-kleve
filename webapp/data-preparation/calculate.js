@@ -82,11 +82,11 @@ const run = () => {
     for (let region of Object.values(regions)) {
         regionDates[region.identifier] = calculateCalendarForRegion(region, dates);
     }
-    writeJsonToFile(regionDates, '../webapp/src/data/regionDates.json')
+    writeJsonToFile(regionDates, '../src/data/regionDates.json')
 
     let streetToRegionMap = mapStreetsToRegions(streets);
 
-    writeJsonToFile(streetToRegionMap, '../webapp/src/data/streetToRegionMap.json')
+    writeJsonToFile(streetToRegionMap, '../src/data/streetToRegionMap.json')
 }
 
 run();
