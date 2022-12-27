@@ -10,20 +10,17 @@
     </v-app-bar>
 
     <v-main class="mb-8">
-      <v-container>
-        <v-row class="text-center">
-          <v-col cols="12" :sm="6" :md="8" class="pb-0">
-            <v-autocomplete
-              :items="streets" 
-              label="Straße wählen"
-              v-model="selectedStreet"
-              @change="selectedStreetChanged"
-            >
-            </v-autocomplete>
-          </v-col>
-          <v-col cols="12" :sm="6" :md="4" class="pb-0 pt-0 pt-sm-4">
-            <DownloadCalendar :dates="dates" />
-          </v-col>
+      <v-container class="mt-4">
+        <v-row class="d-flex flex-row align-center">
+          <v-autocomplete
+            :items="streets" 
+            label="Straße wählen"
+            v-model="selectedStreet"
+            @change="selectedStreetChanged"
+          >
+          </v-autocomplete>
+          <BinFilter v-model="binFilter" />
+          <DownloadCalendar :dates="dates" />
         </v-row>
 
         <v-row v-if="nextDate">
@@ -58,6 +55,7 @@ import regionDates from './data/regionDates.json';
 import Calendar from './components/Calendar.vue';
 import DownloadCalendar from './components/DownloadCalendar.vue';
 import Footer from './components/Footer.vue';
+import BinFilter from './components/BinFilter.vue';
 
 export default {
   name: 'App',
@@ -65,7 +63,8 @@ export default {
   components: {
     Calendar,
     DownloadCalendar,
-    Footer
+    Footer,
+    BinFilter
   },
 
   computed: {
@@ -84,7 +83,12 @@ export default {
 
       let datesList = [];
       for (let date of Object.keys(regionDates[region])) {
-        let bins = regionDates[region][date];
+        let bins = regionDates[region][date].filter(bin => this.binFilter ? this.binFilter.includes(bin) : true);
+
+        if (bins.length === 0) {
+          continue;
+        }
+
         let dateObject = new Date(date);
 
         if (dateObject < Date.now()) {
@@ -103,6 +107,7 @@ export default {
 
   data: () => ({
     selectedStreet: window.localStorage.getItem('abfuhrtermine-kleve-selected-street') || undefined,
+    binFilter: undefined
   }),
 
   methods: {

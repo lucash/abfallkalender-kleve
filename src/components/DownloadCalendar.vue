@@ -1,40 +1,38 @@
 <template>
-  <v-container class="py-0 py-sm-4">
-    <v-menu 
-      bottom 
-      offset-y
-      :close-on-content-click="false"
-    >
-      <template v-slot:activator="{ on }">
-        <div  class="split-button" width="100%">
-          <v-btn 
-            @click="downloadIcs"
-            class="main-btn"
-          >Herunterladen</v-btn>
-          <v-btn
-            v-on="on" 
-            class="pa-0 pl-3 actions-btn"
-          >
-            <v-icon left>mdi-menu-down</v-icon>
-          </v-btn>
-        </div>
-      </template>
+  <v-menu 
+    bottom 
+    offset-y
+    :close-on-content-click="false"
+  >
+    <template v-slot:activator="{ on }">
+      <div  class="split-button" width="100%">
+        <v-btn 
+          @click="downloadIcs"
+          class="main-btn"
+        >Herunterladen</v-btn>
+        <v-btn
+          v-on="on" 
+          class="pa-0 pl-3 actions-btn"
+        >
+          <v-icon left>mdi-menu-down</v-icon>
+        </v-btn>
+      </div>
+    </template>
 
-      <v-card>
-        <v-list>
-          <v-list-item>
-            <v-checkbox v-model="reminder" label="Erinnerung am Tag vorher" />
-          </v-list-item>
-          <v-list-item v-if="reminder">
-            <v-text-field v-model="reminderTime" type="time" label="Uhrzeit der Erinnerung" />
-          </v-list-item>
-          <v-list-item>
-            <v-text-field v-model="dateName" label="Name der Termine" />
-          </v-list-item>
-        </v-list>
-      </v-card>
-    </v-menu>
-  </v-container>
+    <v-card>
+      <v-list>
+        <v-list-item>
+          <v-checkbox v-model="reminder" label="Erinnerung am Tag vorher" />
+        </v-list-item>
+        <v-list-item v-if="reminder">
+          <v-text-field v-model="reminderTime" type="time" label="Uhrzeit der Erinnerung" />
+        </v-list-item>
+        <v-list-item>
+          <v-text-field v-model="dateName" label="Name der Termine" />
+        </v-list-item>
+      </v-list>
+    </v-card>
+  </v-menu>
 </template>
 
 <style scoped>
