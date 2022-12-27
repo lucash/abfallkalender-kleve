@@ -67,7 +67,15 @@
 
     mounted () {
       this.$refs.calendar.checkChange();
-      this.focus = this.events[0].start;
+      this.focusNextDate();
+    },
+
+    watch: {
+      events(newEvents, oldEvents) {
+        if (!oldEvents || oldEvents.length === 0) {
+          this.focusNextDate();
+        }
+      }
     },
 
     methods: {
@@ -85,6 +93,11 @@
       },
       next () {
         this.$refs.calendar.next();
+      },
+      focusNextDate() {
+        if (this.events && this.events.length > 0) {
+          this.focus = this.events[0].start;
+        }
       },
     }
   }
