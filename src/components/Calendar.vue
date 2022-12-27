@@ -48,6 +48,7 @@
         :events="events"
         :event-color="getEventColor"
         :event-text-color="getEventTextColor"
+        weekdays="1, 2, 3, 4, 5, 6, 0"
       >
       </v-calendar>
     </v-sheet>
