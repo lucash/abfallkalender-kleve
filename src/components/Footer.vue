@@ -9,6 +9,18 @@
       >
         Impressum
       </v-btn>
+      <v-btn
+        text
+        color="white"
+        rounded
+        target="_blank"
+        href="https://github.com/lucash/abfallkalender-kleve"
+      >
+        <v-icon>
+          mdi-github
+        </v-icon>
+        Github
+      </v-btn>
     </v-row>
 
     <v-dialog v-model="imprint" width="unset">
