@@ -6,7 +6,7 @@
       :close-on-content-click="false"
     >
       <template v-slot:activator="{ on }">
-        <div  class="split-button">
+        <div  class="split-button" width="100%">
           <v-btn 
             @click="downloadIcs"
             class="main-btn"
@@ -41,6 +41,7 @@
   .main-btn{
     border-top-right-radius: 0;
     border-bottom-right-radius: 0;
+    width: calc(100% - 40px);
   }
   .actions-btn{
     border-top-left-radius: 0;
