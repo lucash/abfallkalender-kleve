@@ -2814,19 +2814,13 @@
   "others": "F1"
 },
 {
-  "street": "Nassauerallee"
-},
-{
-  "street": "von Hausnr. 132",
+  "street": "Nassauerallee von Hausnr. 1-32",
   "yellow": "B",
   "bins": 4,
   "others": "B1"
 },
 {
-  "street": "Nassauerallee"
-},
-{
-  "street": "von Hausnr. 40188",
+  "street": "Nassauerallee von Hausnr. 40-188",
   "yellow": "C",
   "bins": 1,
   "others": "C2"
@@ -3294,19 +3288,13 @@
   "others": "H1"
 },
 {
-  "street": "Sackstraße"
-},
-{
-  "street": "von Hausnr. 1145",
+  "street": "Sackstraße von Hausnr. 1-145",
   "yellow": "C",
   "bins": 1,
   "others": "C2"
 },
 {
-  "street": "Sackstraße"
-},
-{
-  "street": "von Hausnr. 147196",
+  "street": "Sackstraße von Hausnr. 147-196",
   "yellow": "C",
   "bins": 4,
   "others": "C1"
@@ -3600,19 +3588,13 @@
   "others": "H2"
 },
 {
-  "street": "Spyckstraße"
-},
-{
-  "street": "von Hausnr. 192",
+  "street": "Spyckstraße von Hausnr. 1-92",
   "yellow": "A",
   "bins": 4,
   "others": "A1"
 },
 {
-  "street": "Spyckstraße"
-},
-{
-  "street": "von Hausnr. 101257",
+  "street": "Spyckstraße von Hausnr. 101-257",
   "yellow": "A",
   "bins": 5,
   "others": "A2"
@@ -3798,19 +3780,13 @@
   "others": "D1"
 },
 {
-  "street": "Tiergartenstr. von Hausnr."
-},
-{
-  "street": "133 und 250",
+  "street": "Tiergartenstr. von Hausnr.  1-33 und 2-50",
   "yellow": "B",
   "bins": 4,
   "others": "B2"
 },
 {
-  "street": "Tiergartenstr. von Hausnr."
-},
-{
-  "street": "35111 und 52112",
+  "street": "Tiergartenstr. von Hausnr.  35-111 und 52-112",
   "yellow": "H",
   "bins": 5,
   "others": "H2"
@@ -3840,19 +3816,13 @@
   "others": "H1"
 },
 {
-  "street": "Triftstraße von Hausnr."
-},
-{
-  "street": "199 und 2118",
+  "street": "Triftstraße von Hausnr.  1-99 und 2-118",
   "yellow": "C",
   "bins": 1,
   "others": "C2"
 },
 {
-  "street": "Triftstraße von Hausnr."
-},
-{
-  "street": "105159 und 126180",
+  "street": "Triftstraße von Hausnr.  105-159 und 126-180",
   "yellow": "F",
   "bins": 2,
   "others": "F2"
@@ -4026,19 +3996,13 @@
   "others": "D2"
 },
 {
-  "street": "Wasserburgallee"
-},
-{
-  "street": "von Hausnr. 2052",
+  "street": "Wasserburgallee von Hausnr. 20-52",
   "yellow": "H",
   "bins": 5,
   "others": "H2"
 },
 {
-  "street": "Wasserburgallee"
-},
-{
-  "street": "von Hausnr. 112120",
+  "street": "Wasserburgallee von Hausnr. 112-120",
   "yellow": "A",
   "bins": 5,
   "others": "A2"
@@ -4098,19 +4062,13 @@
   "others": "C2"
 },
 {
-  "street": "Weyerstege"
-},
-{
-  "street": "von Hausnr. 129",
+  "street": "Weyerstege von Hausnr. 1-29",
   "yellow": "B",
   "bins": 4,
   "others": "B1"
 },
 {
-  "street": "Weyerstege"
-},
-{
-  "street": "von Hausnr. 3657",
+  "street": "Weyerstege von Hausnr. 36-57",
   "yellow": "C",
   "bins": 1,
   "others": "C2"

@@ -467,10 +467,8 @@ Mühlenstraße;E;3;E1
 Mühlenweg;F;3;F1
 Mühsol;G;1;G1
 Müschenfeld;F;4;F1
-Nassauerallee
-von Hausnr. 132;B;4;B1
-Nassauerallee
-von Hausnr. 40188;C;1;C2
+Nassauerallee von Hausnr. 1-32;B;4;B1
+Nassauerallee von Hausnr. 40-188;C;1;C2
 Nassauermauer;B;4;B1
 Nassauerstraße;B;4;B1
 Neerfeldstraße;E;3;E2
@@ -548,10 +546,8 @@ Rütgerstraße;B;4;B1
 Saalhof;G;1;G2
 Saalstraße;H;2;H1
 Saalweg;H;2;H1
-Sackstraße
-von Hausnr. 1145;C;1;C2
-Sackstraße
-von Hausnr. 147196;C;4;C1
+Sackstraße von Hausnr. 1-145;C;1;C2
+Sackstraße von Hausnr. 147-196;C;4;C1
 Salmorth;F;3;F1
 Sandstraße;A;5;A1
 Sandweg;H;2;H1
@@ -600,10 +596,8 @@ Spielberg;H;5;H2
 Spitzgasse;B;4;B2
 Spoyufer;B;4;B2
 Spyckscher Baum;H;3;H2
-Spyckstraße
-von Hausnr. 192;A;4;A1
-Spyckstraße
-von Hausnr. 101257;A;5;A2
+Spyckstraße von Hausnr. 1-92;A;4;A1
+Spyckstraße von Hausnr. 101-257;A;5;A2
 St. Annaberg;H;2;H1
 Stadionstraße;D;2;D1
 Stadtbadstraße;B;4;B2
@@ -634,18 +628,14 @@ TheodorHeussStraße;C;4;C1
 Theodorstraße;A;5;A2
 Tichelstraße;A;5;A2
 Tichlers Mühle;D;2;D1
-Tiergartenstr. von Hausnr.
-133 und 250;B;4;B2
-Tiergartenstr. von Hausnr.
-35111 und 52112;H;5;H2
+Tiergartenstr. von Hausnr.  1-33 und 2-50;B;4;B2
+Tiergartenstr. von Hausnr.  35-111 und 52-112;H;5;H2
 Tillsiterstraße;G;1;G2
 Tinthofstraße;G;1;G2
 Tochtgraben;F;3;F2
 Treppkesweg;H;2;H1
-Triftstraße von Hausnr.
-199 und 2118;C;1;C2
-Triftstraße von Hausnr.
-105159 und 126180;F;2;F2
+Triftstraße von Hausnr.  1-99 und 2-118;C;1;C2
+Triftstraße von Hausnr.  105-159 und 126-180;F;2;F2
 Trübsche Straße;A;5;A1
 Tulpenweg;D;2;D1
 Turmstraße;B;4;B2
@@ -674,10 +664,8 @@ Waalstraße;H;2;H1
 Wagnerstraße;D;2;D1
 Waldsaum;H;5;H2
 Waldstraße;D;5;D2
-Wasserburgallee
-von Hausnr. 2052;H;5;H2
-Wasserburgallee
-von Hausnr. 112120;A;5;A2
+Wasserburgallee von Hausnr. 20-52;H;5;H2
+Wasserburgallee von Hausnr. 112-120;A;5;A2
 Wasserstraße;B;4;B2
 Wasserweg;D;2;D2
 Webergasse;B;4;B2
@@ -687,10 +675,8 @@ Weidenstraße;A;5;A2
 Welbershöhe;D;2;D1
 Werftstraße;B;4;B2
 Weseler Straße;C;1;C2
-Weyerstege
-von Hausnr. 129;B;4;B1
-Weyerstege
-von Hausnr. 3657;C;1;C2
+Weyerstege von Hausnr. 1-29;B;4;B1
+Weyerstege von Hausnr. 36-57;C;1;C2
 Wiesenstraße;E;4;F1
 Wildgehege;G;1;G2
 WilhelmFriesStraße;D;2;D2

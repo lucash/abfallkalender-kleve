@@ -11,7 +11,7 @@ const calculateCalendarForRegion = (region, dates) => {
         }
     }
 
-    writeJsonToFile(collectedDates, '../webapp/data/' + region.identifier + '.json');
+    return collectedDates;
 }
 
 const getRegionBinsForDate = (region, date) => {
@@ -78,13 +78,15 @@ const run = () => {
 
     let regions = extractRegionsFromStreets(streets);
 
+    let regionDates = {};
     for (let region of Object.values(regions)) {
-        calculateCalendarForRegion(region, dates);
+        regionDates[region.identifier] = calculateCalendarForRegion(region, dates);
     }
+    writeJsonToFile(regionDates, '../webapp/src/data/regionDates.json')
 
     let streetToRegionMap = mapStreetsToRegions(streets);
 
-    writeJsonToFile(streetToRegionMap, '../webapp/data/streetToRegionMap.json')
+    writeJsonToFile(streetToRegionMap, '../webapp/src/data/streetToRegionMap.json')
 }
 
 run();
