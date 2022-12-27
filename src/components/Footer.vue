@@ -1,5 +1,5 @@
 <template>
-  <v-footer color="primary" padless>
+  <v-footer color="primary" padless fixed>
     <v-row justify="center" no-gutters>
       <v-btn
         text

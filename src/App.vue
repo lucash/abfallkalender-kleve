@@ -9,7 +9,7 @@
       <v-spacer></v-spacer>
     </v-app-bar>
 
-    <v-main>
+    <v-main class="mb-8">
       <v-container>
         <v-row class="text-center">
           <v-col cols="12" :sm="6" :md="8" class="pb-0">
